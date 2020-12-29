@@ -6,7 +6,7 @@ parsedatetime
 psutil
 pyparsing
 pyquery
-pyaiml git+https://github.com/paulovn/python-aiml
+git+https://github.com/paulovn/python-aiml
 speedtest-cli
 pytz
 wikipedia
