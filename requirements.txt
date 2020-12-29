@@ -1,0 +1,17 @@
+discord.py
+pillow
+Wavelink
+Requests
+parsedatetime
+psutil
+pyparsing
+pyquery
+pyaiml
+speedtest-cli
+pytz
+wikipedia
+googletrans
+giphypop
+numpypymongo
+igdb_api_python
+geopy
