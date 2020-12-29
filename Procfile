@@ -1,1 +1,1 @@
-worker: Main.py
+worker: Start.bat
