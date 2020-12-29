@@ -12,6 +12,7 @@ pytz
 wikipedia
 googletrans
 git+https://github.com/shaunduncan/giphypop.git#egg=giphypop
-numpypymongo
+numpy
+pymongo
 igdb_api_python
 geopy
