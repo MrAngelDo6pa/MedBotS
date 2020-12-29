@@ -1,1 +1,1 @@
-worker: Start.bat
+worker: python Mine.py
