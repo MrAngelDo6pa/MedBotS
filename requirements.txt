@@ -11,7 +11,7 @@ speedtest-cli
 pytz
 wikipedia
 googletrans
-giphypop git+https://github.com/shaunduncan/giphypop.git#egg=giphypop
+git+https://github.com/shaunduncan/giphypop.git#egg=giphypop
 numpypymongo
 igdb_api_python
 geopy
