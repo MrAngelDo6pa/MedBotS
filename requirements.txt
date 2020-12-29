@@ -6,12 +6,12 @@ parsedatetime
 psutil
 pyparsing
 pyquery
-pyaiml
+pyaiml git+https://github.com/paulovn/python-aiml
 speedtest-cli
 pytz
 wikipedia
 googletrans
-giphypop
+giphypop git+https://github.com/shaunduncan/giphypop.git#egg=giphypop
 numpypymongo
 igdb_api_python
 geopy
