@@ -1,1 +1,1 @@
-worker: python WatchDog.py
+worker: python Main.py
